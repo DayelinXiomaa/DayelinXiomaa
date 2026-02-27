@@ -1,4 +1,4 @@
-<!-- Elegant Nude Blush Header -->
+<!-- Nude Blush Elegant Header -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C6D6&height=170&section=header&text=Xiomara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
@@ -14,6 +14,25 @@
 
 <p align="center">
   <img src="profile.png" width="160" style="border-radius: 50%;" />
+</p>
+
+---
+
+## 🤍 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/TUUSUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D46A92?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/TUUSUARIO">
+    <img src="https://img.shields.io/badge/Instagram-F5C6D6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@TUUSUARIO">
+    <img src="https://img.shields.io/badge/TikTok-F8D7E4?style=for-the-badge&logo=tiktok&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -51,25 +70,6 @@ Mi enfoque combina estructura técnica sólida con estética limpia y profesiona
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayelinXiomaa&layout=compact&theme=rose_pine&hide_border=true&border_radius=30"/>
-</p>
-
----
-
-## 🤍 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/TUUSUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:TUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D46A92?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/TUUSUARIO">
-    <img src="https://img.shields.io/badge/Instagram-F5C6D6?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@TUUSUARIO">
-    <img src="https://img.shields.io/badge/TikTok-F8D7E4?style=for-the-badge&logo=tiktok&logoColor=black"/>
-  </a>
 </p>
 
 ---
