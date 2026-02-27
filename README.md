@@ -1,87 +1,78 @@
-# 👩🏻‍💻 Xiomara | Desarrolladora en Formación
+# 👩🏻‍💻 Dayelin  
+### Ingeniera en Formación | Tecnología & Educación
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Apasionada+por+la+Tecnología;Machine+Learning+en+Educación;Desarrollo+Web+y+Apps;Siempre+Aprendiendo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&center=true&vCenter=true&width=600&lines=Transformación+Digital+en+Educación;Machine+Learning+Aplicado+al+Aprendizaje;Desarrollo+Web+y+Sistemas+Inteligentes;Construyendo+Tecnología+con+Propósito+✨" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🌸 Perfil Profesional
 
-🎓 Estudiante enfocada en **Transformación Digital en la Educación**  
-🤖 Interesada en Machine Learning aplicado al aprendizaje  
-🌐 Desarrollo web y aplicaciones móviles  
+Soy estudiante enfocada en la **Transformación Digital en la Educación**, con interés en el desarrollo de soluciones tecnológicas que integren:
+
+- 🧠 Machine Learning
+- 📊 Análisis de datos
+- 🌐 Desarrollo Web
+- 📱 Aplicaciones móviles
+- 🎓 Innovación educativa
+
+Mi enfoque combina investigación académica con desarrollo práctico, creando proyectos con impacto real.
+
+---
+
+## 🎓 Investigación & Proyecto Académico
+
+📌 **Adopción de un Sistema Inteligente basado en Machine Learning para el proceso de aprendizaje (Lima, 2025)**  
+
+Proyecto aplicado con diseño pre-experimental orientado a mejorar el rendimiento académico mediante un enfoque personalizado y adaptativo.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8E44AD?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4A5FF?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-C77DFF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-B5179E?style=for-the-badge&logo=css3&logoColor=white)
+
+### Herramientas
+![MySQL](https://img.shields.io/badge/MySQL-7B2CBF?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-A663CC?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E0AAFF?style=for-the-badge&logo=figma&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DayelinXiomaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayelinXiomaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffffff" height="170"/>
+</p>
+
+---
+
+## ✨ En Desarrollo Constante
+
+- 📚 Fortaleciendo conocimientos en Inteligencia Artificial
+- 📈 Aplicando tecnología en contextos educativos
+- 🌐 Construyendo soluciones digitales modernas
+- 💡 Integrando investigación y práctica profesional
+
+---
+
+## 📬 Contacto Profesional
+
 📍 Lima, Perú  
-
-Actualmente trabajando en proyectos que combinan **tecnología + educación + sistemas inteligentes**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Lenguajes
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Base de Datos & Herramientas
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-## 🔥 Racha de Contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&border_radius=5" />
-</p>
-
----
-
-## 📌 Proyectos Destacados
-
-🔹 **Sistema Inteligente para el Aprendizaje**  
-Implementación de un modelo basado en Machine Learning para mejorar el rendimiento académico.
-
-🔹 **Simulador Web de Votación**  
-Aplicación web interactiva para procesos académicos y simulaciones.
-
-🔹 **Sitios Web Institucionales**  
-Desarrollo de páginas web modernas para organizaciones.
-
----
-
-## 📈 Actualmente
-
-- 📚 Desarrollando mi proyecto de tesis
-- 🤖 Aprendiendo más sobre Inteligencia Artificial
-- 🌐 Construyendo mi portafolio profesional
-- 🚀 Mejorando mis habilidades en desarrollo full stack
-
----
-
-## 📫 Conecta conmigo
-
-📧 dayexioma@email.com  
-💼 LinkedIn: 
-🌐 Portafolio:   
+📧 correo@ejemplo.com  
+💼 LinkedIn: linkedin.com/in/tuusuario  
 
 ---
 
 <p align="center">
-  ⭐ “La tecnología no solo transforma procesos, transforma oportunidades.”
+  <em>"La tecnología con propósito transforma la educación y el futuro."</em>
 </p>
