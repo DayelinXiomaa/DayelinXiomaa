@@ -1,54 +1,74 @@
-<!-- BANNER SUPERIOR -->
+<!-- HEADER ROSADO SUAVE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C77DFF&height=180&section=header&text=Xiomara%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=200&section=header&text=Xiomara%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">👩🏻‍💻 Mobile & Web Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&center=true&vCenter=true&width=600&lines=iOS+%26+Android+Developer+📱;Responsive+Web+Developer+🌐;UI+Focused+Builder+🎨;Building+Digital+Experiences+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=EC407A&center=true&vCenter=true&width=600&lines=iOS+%26+Android+Developer+📱;Responsive+Web+Designer+🌐;UI+Focused+Builder+🎨;Creating+Digital+Experiences+✨" />
 </p>
 
 ---
 
-## 🌸 About Me
-
-✨ Desarrollo aplicaciones móviles para Android  
-🌐 Creo sitios web modernos y responsive  
-🗳️ Desarrollo sistemas interactivos como simuladores  
-🎨 Me enfoco en diseño limpio y experiencia de usuario  
-
----
-
-## 🚀 Tech Stack
+# 🌸 Conecta conmigo
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python,androidstudio,git,github,figma&theme=light" />
-
+  <a href="https://linkedin.com/in/TUUSUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F06292?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/TUUSUARIO">
+    <img src="https://img.shields.io/badge/Instagram-EC407A?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@TUUSUARIO">
+    <img src="https://img.shields.io/badge/TikTok-F8BBD0?style=for-the-badge&logo=tiktok&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 💕 Sobre mí
+
+Soy desarrolladora especializada en:
+
+- 📱 Aplicaciones móviles Android
+- 🌐 Sitios web modernos y responsive
+- 🗳️ Sistemas interactivos (simuladores y plataformas dinámicas)
+- 🎨 Interfaces limpias y centradas en experiencia de usuario
+
+Me apasiona construir soluciones digitales funcionales, bien estructuradas y visualmente atractivas.
+
+---
+
+# 🚀 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DayelinXiomaa&show_icons=true&theme=default&hide_border=true&border_radius=20" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayelinXiomaa&layout=compact&theme=default&hide_border=true&border_radius=20" height="170"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,androidstudio,git,github,figma&theme=light" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DayelinXiomaa&theme=default&hide_border=true&border_radius=20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DayelinXiomaa&show_icons=true&theme=rose_pine&hide_border=true&border_radius=20"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DayelinXiomaa&theme=rose_pine&hide_border=true&border_radius=20"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayelinXiomaa&layout=compact&theme=rose_pine&hide_border=true&border_radius=20"/>
 </p>
 
 ---
 
-## 🐍 Contributions Animation
+# 🐍 Contribuciones Animadas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DayelinXiomaa/DayelinXiomaa/output/github-contribution-grid-snake.svg" />
@@ -56,15 +76,6 @@
 
 ---
 
-## 🌷 Current Focus
-
-- 📱 Mejorando arquitectura en apps móviles
-- 🌐 Perfeccionando diseño responsive
-- ⚡ Optimizando rendimiento web
-- 🚀 Construyendo proyectos más escalables
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C77DFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F48FB1&height=120&section=footer"/>
 </p>
